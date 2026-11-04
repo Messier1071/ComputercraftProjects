@@ -1,0 +1,6 @@
+periphemu.create("1","computer")
+periphemu.create("2","computer")
+periphemu.create("3","computer")
+periphemu.create("top","modem")
+shell.run("server.lua")
+print("Setup Complete!")

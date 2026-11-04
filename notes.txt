@@ -1,0 +1,18 @@
+Client 
+    1 - register with server and set pc label
+    2 - waits for request 
+    2.1 - gets room from ae2
+    2.2 - "loads" it
+
+Server
+ - choose target and sent to it from whereever
+ - stores status(?)
+- Alpha
+    - receives new requests and writes to file
+- Beta
+    - receives requests and returns data
+
+Cabin
+    - Allow user to select target and request to be sent there
+    - update status
+
